@@ -1,5 +1,5 @@
 <h1 align="center">
-  Título
+  Feed-Get
 </h1>
 
 <br></br>
@@ -13,7 +13,7 @@
 <br>
 
 <h1 align="center">
-  <img alt="" title="" src="" width="100%" />
+  <img alt="image" title="" src="image.png" width="100%" />
 </h1>
 
 
@@ -22,20 +22,58 @@
 
 Clone the project and access the folder.
 
-```bash
-$ git clone https://github.com/
-$ cd 
-```
+### Web
 
-Follow the steps below:
 ```bash
+$ https://github.com/diaspd/Feed-Get.git
+$ cd web
+
 # Install the dependencies
-$ npm i
+$ npm install
 
-# Start the project
-$ npm start
+# Make a copy of '.env.local.example' to '.env.local'
+$ cp .env.local.example .env.local
+
+# Start the application
+$ npm run dev
+
 ```
-The app will be available for access on your browser at http://localhost:3000
+### Server
+
+```bash
+$ cd server
+
+# Install the dependencies
+$ npm install
+
+# Make a copy of '.env.example' to '.env'
+# and set with YOUR environment variables.
+$ cp .env.example .env
+
+$ npx prisma migrate dev
+
+# Start the server
+$ npm run dev
+
+```
+### Mobile
+
+```bash
+$ cd mobile
+
+# Install the dependencies
+$ npm install
+
+# for android
+$ npm run android
+
+# for ios
+$ npm run ios
+
+# start the bundle
+$ npm run start
+```
+
 
 <br></br>
 
@@ -43,7 +81,7 @@ The app will be available for access on your browser at http://localhost:3000
 
 This project was developed with the following technologies:
 
-- 
+- React
 - 
 - 
 -
