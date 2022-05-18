@@ -82,11 +82,13 @@ $ npm run start
 This project was developed with the following technologies:
 
 - React
-- 
-- 
--
--
--
+- TailwindCss
+- TypeScript
+- React Native
+- Expo
+- Vitejs
+- Express
+- prisma
 
 
 ## 📄 Project
@@ -95,16 +97,15 @@ This project was developed with the following technologies:
 <br></br>
 
 ## 🔖 Layout
-📄
+- [Feedback Widget - Figma](https://www.figma.com/community/file/1102912516166573468)
+
 
 <br></br>
 
-Feito com ♥ by Pedro Dias (😎)<br></br>
+Made with ♥ by Pedro Dias (😎)<br></br>
 https://www.instagram.com/dias_pdr/ <br></br>
 https://www.facebook.com/PedroDias24/<br></br>
 https://twitter.com/diaspdr_1<br></br>
 https://www.twitch.tv/diasgm_pdr<br></br>
 
-Se puder dar uma estrelinha, eu agradeço 🤩
-<br></br>
 If you can give a little star, I appreciate it 🤩
