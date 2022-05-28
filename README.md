@@ -92,7 +92,7 @@ This project was developed with the following technologies:
 
 
 ## 📄 Project
-💰
+💰 Project made for receive feedback about bugs, ideas and other things.
 
 <br></br>
 
