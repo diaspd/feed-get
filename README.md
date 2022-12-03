@@ -25,7 +25,7 @@ Clone the project and access the folder.
 ### Web
 
 ```bash
-$ https://github.com/diaspd/Feed-Get.git
+$ git clone https://github.com/diaspd/feed-get.git
 $ cd web
 
 # Install the dependencies
