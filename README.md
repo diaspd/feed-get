@@ -102,6 +102,6 @@ This project was developed with the following technologies:
 
 <br></br>
 
-Made with ♥ by Pedro Dias <br></br>
+Made with ♥ by Pedro Dias. 👋 Follow me on social media! <br></br>
 
 If you can give a little star, I appreciate it 🤩
