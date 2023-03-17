@@ -10,13 +10,13 @@
   <a href="#-Layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
+</br>
 
-<h1 align="center">
+<div align="center">
   <img alt="image" title="" src="image.png" width="100%" />
-</h1>
+</div>
 
-
+</br>
 
 ## 🚀 Getting started
 
@@ -90,6 +90,7 @@ This project was developed with the following technologies:
 - Express
 - prisma
 
+</br>
 
 ## 📄 Project
 💰 Project made for receive feedback about bugs, ideas and other things.
