@@ -10,7 +10,7 @@
     "dev": "ts-node-dev --exit-child src/server.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "pedro_dias",
   "license": "ISC",
   "devDependencies": {
     "@swc/jest": "^0.2.20",
