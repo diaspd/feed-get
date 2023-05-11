@@ -10,7 +10,7 @@
   <a href="#-Layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-</br>
+---
 
 <div align="center">
   <img alt="image" title="" src="image.png" width="100%" />
